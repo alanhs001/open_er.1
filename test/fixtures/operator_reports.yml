@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prf_number: 1
+  caller_name: MyText
+  address_ln1: MyText
+  address_ln2: MyText
+  address_ln3: MyText
+  address_postcode: MyText
+  description: MyText
+  units_responding: MyString
+  siren: false
+  place_holder1: false
+  time_onscene: 2017-12-13 19:37:15
+
+two:
+  prf_number: 1
+  caller_name: MyText
+  address_ln1: MyText
+  address_ln2: MyText
+  address_ln3: MyText
+  address_postcode: MyText
+  description: MyText
+  units_responding: MyString
+  siren: false
+  place_holder1: false
+  time_onscene: 2017-12-13 19:37:15
